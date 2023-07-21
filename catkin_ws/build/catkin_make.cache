@@ -1,0 +1,2 @@
+PruebaTopic:car-robot:move_robot:pysdf
+-DCATKIN_DEVEL_PREFIX=/home/jair/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jair/catkin_ws/install -G Unix Makefiles

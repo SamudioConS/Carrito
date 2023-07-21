@@ -1,0 +1,8 @@
+prefix=/home/jair/catkin_ws/install
+
+Name: car-robot
+Description: Description of car-robot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
